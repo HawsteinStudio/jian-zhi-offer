@@ -2,7 +2,7 @@
 
 「剑指 Offer」是何海涛写的一本算法面试书，书中精选了 50 道常见的程序员面试题，这些题目偏向中低难度，是入门上手不错的选择。另外这些题目基本上在各大 OJ 上也都有，可以非常方便地提交自己的实现进行练手。
 
-如果刚开始练习算法题目，「剑指 Offer」是个不错的切入点。以下是 AlgoCasts 上对应这 50 道题目的讲解视频（**目前还没录完，持续更新中**）
+如果刚开始练习算法题目，「剑指 Offer」是个不错的切入点。以下是 AlgoCasts 上对应这 50 道题目的讲解视频（**持续更新**）。
 
 > 注意：讲解视频中的题目可能和剑指 Offer 书上的题目有些许不同，不保证 100% 一致。
 > 另外，在我看来，有些题目练习的意义不大，已经使用删除线移除。
@@ -38,7 +38,7 @@
 1. 连续子数组的最大和 - [连续子序列的最大和](https://algocasts.io/episodes/deG4vW1R) - leetcode 53 | lintcode 41
 1. 从 1 到 n 整数中 1 出现的次数
 1. 把数组排成最小的数
-1. 丑数 - [第 n 个丑数](https://algocasts.io/episodes/ldGjk7p9)
+1. 丑数 - [第 n 个丑数](https://algocasts.io/episodes/ldGjk7p9) - leetcode 264 | lintcode 4
 1. 第一个只出现一次的字符 - leetcode 387 | lintcode 209
 1. 数组中的逆序对 - leetcode 493 | lintcode 532
 1. 两个链表的第一个公共节点 - [链表的相交节点](https://algocasts.io/episodes/AwmX9Gx6) - leetcode 160 | lintcode 380
