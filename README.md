@@ -13,7 +13,7 @@
 1. 重建二叉树 - [用前序和中序遍历序列构建二叉树](https://algocasts.io/episodes/M0G2DaWz) - leetcode 105 | lintcode 73
 1. 用两个栈实现队列 - leetcode 232 | lintcode 40
 1. 旋转数组的最小数字 - leetcode 153 | lintcode 159
-1. 斐波那契数列 - leetcode 509 | lintcode 366
+1. 斐波那契数列 - [第 n 个斐波那契数](https://algocasts.io/episodes/17WMX8pj) - leetcode 509 | lintcode 366
 1. 二进制中 1 的个数 - [二进制中 1 的个数](https://algocasts.io/episodes/XZWvbBW7) - leetcode 191 | lintcode 1332
 1. 数值的整数次方 - [数值的 n 次方](https://algocasts.io/episodes/Z5mzJmdn) - leetcode 50 | lintcode 428
 1. 打印 1 到最大的 n 位数
