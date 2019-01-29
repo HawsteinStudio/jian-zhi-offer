@@ -36,7 +36,7 @@
 1. 数组中出现次数超过一半的数字 - [数组中超过一半的数字](https://algocasts.io/episodes/VlWd8W06) - leetcode 169 | lintcode 46
 1. 最小的 k 个数 - [数组中第 K 大的元素](https://algocasts.io/episodes/vkmelbWb) - leetcode 215 | lintcode 5
 1. 连续子数组的最大和 - [连续子序列的最大和](https://algocasts.io/episodes/deG4vW1R) - leetcode 53 | lintcode 41
-1. 从 1 到 n 整数中 1 出现的次数
+1. 从 1 到 n 整数中 1 出现的次数 - [整数 1 到 n 中 1 出现的次数](https://algocasts.io/episodes/deG4RbW1) - leetcode 233 | lintcode 1312
 1. 把数组排成最小的数
 1. 丑数 - [第 n 个丑数](https://algocasts.io/episodes/ldGjk7p9) - leetcode 264 | lintcode 4
 1. 第一个只出现一次的字符 - leetcode 387 | lintcode 209
