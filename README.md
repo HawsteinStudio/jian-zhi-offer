@@ -16,8 +16,8 @@
 1. 斐波那契数列 - [第 n 个斐波那契数](https://algocasts.io/episodes/17WMX8pj) - leetcode 509 | lintcode 366
 1. 二进制中 1 的个数 - [二进制中 1 的个数](https://algocasts.io/episodes/XZWvbBW7) - leetcode 191 | lintcode 1332
 1. 数值的整数次方 - [数值的 n 次方](https://algocasts.io/episodes/Z5mzJmdn) - leetcode 50 | lintcode 428
-1. 打印 1 到最大的 n 位数
-1. 在 O(1) 时间删除链表节点 - leetcode 237 | lintcode 372
+1. ~~打印 1 到最大的 n 位数~~
+1. 在 O(1) 时间删除链表节点 - [删除链表节点](https://algocasts.io/episodes/VBpL0opD) - leetcode 237 | lintcode 372
 1. 调整数组顺序使奇数位于偶数前面
 1. 链表中倒数第 k 个节点 - [移除单链表倒数第 n 个节点](https://algocasts.io/episodes/eAGQQlG4) - leetcode 19 | lintcode 174
 1. 反转链表 - [反转单链表](https://algocasts.io/episodes/QrWZbW5w) - leetcode 206 | lintcode 35
