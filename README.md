@@ -12,7 +12,7 @@
 1. 从尾到头打印链表 - [nowcoder](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035)
 1. 重建二叉树 - [用前序和中序遍历序列构建二叉树](https://algocasts.io/episodes/M0G2DaWz) - leetcode 105 | lintcode 73
 1. 用两个栈实现队列 - [使用栈实现队列](https://algocasts.io/episodes/jwmBznm8) - leetcode 232 | lintcode 40
-1. 旋转数组的最小数字 - leetcode 153 | lintcode 159
+1. 旋转数组的最小数字 - [旋转有序数组的最小值](https://algocasts.io/episodes/q2m5w5pz) - leetcode 153 | lintcode 159
 1. 斐波那契数列 - [第 n 个斐波那契数](https://algocasts.io/episodes/17WMX8pj) - leetcode 509 | lintcode 366
 1. 二进制中 1 的个数 - [二进制中 1 的个数](https://algocasts.io/episodes/XZWvbBW7) - leetcode 191 | lintcode 1332
 1. 数值的整数次方 - [数值的 n 次方](https://algocasts.io/episodes/Z5mzJmdn) - leetcode 50 | lintcode 428
