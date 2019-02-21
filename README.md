@@ -22,7 +22,7 @@
 1. 链表中倒数第 k 个节点 - [移除单链表倒数第 n 个节点](https://algocasts.io/episodes/eAGQQlG4) - leetcode 19 | lintcode 174
 1. 反转链表 - [反转单链表](https://algocasts.io/episodes/QrWZbW5w) - leetcode 206 | lintcode 35
 1. 合并两个排序的链表 - [合并两个有序链表](https://algocasts.io/episodes/17WMoGjw) - leetcode 21 | lintcode 165
-1. 树的子结构 - leetcode 572 | lintcode 1165
+1. 树的子结构 - [树 t 是否等于树 s 的子树](https://algocasts.io/episodes/M0G2Q7mz) - leetcode 572 | lintcode 1165 // 注意：视频中这道题目只是类似，但不相同，区别在于「子结构」和「子树」。
 1. 二叉树的镜像 - [翻转二叉树](https://algocasts.io/episodes/6emEEjmV) - leetcode 226 | lintcode 175
 1. 顺时针打印矩阵
 1. 包含 min 函数的栈 - [带有 min 函数的栈](https://algocasts.io/episodes/LPmwNWqw) - leetcode 155 | lintcode 12
