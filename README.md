@@ -24,7 +24,7 @@
 1. 合并两个排序的链表 - [合并两个有序链表](https://algocasts.io/episodes/17WMoGjw) - leetcode 21 | lintcode 165
 1. 树的子结构 - [树 t 是否等于树 s 的子树](https://algocasts.io/episodes/M0G2Q7mz) - leetcode 572 | lintcode 1165 // 注意：视频中这道题目只是类似，但不相同，区别在于「子结构」和「子树」。
 1. 二叉树的镜像 - [翻转二叉树](https://algocasts.io/episodes/6emEEjmV) - leetcode 226 | lintcode 175
-1. 顺时针打印矩阵
+1. 顺时针打印矩阵 - [矩阵的螺旋遍历](https://algocasts.io/episodes/AwmXkzWx) - leetcode 54 | lintcode 374
 1. 包含 min 函数的栈 - [带有 min 函数的栈](https://algocasts.io/episodes/LPmwNWqw) - leetcode 155 | lintcode 12
 1. 栈的压入弹出序列 - leetcode 946
 1. 从上往下打印二叉树 - [二叉树的层序遍历](https://algocasts.io/episodes/qjG0bWK2) - leetcode 102 | lintcode 69
