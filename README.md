@@ -26,7 +26,7 @@
 1. 二叉树的镜像 - [翻转二叉树](https://algocasts.io/episodes/6emEEjmV) - leetcode 226 | lintcode 175
 1. 顺时针打印矩阵 - [矩阵的螺旋遍历](https://algocasts.io/episodes/AwmXkzWx) - leetcode 54 | lintcode 374
 1. 包含 min 函数的栈 - [带有 min 函数的栈](https://algocasts.io/episodes/LPmwNWqw) - leetcode 155 | lintcode 12
-1. 栈的压入弹出序列 - leetcode 946
+1. 栈的压入弹出序列 - [验证入栈出栈序列](https://algocasts.io/episodes/KApAz4W6) - leetcode 946
 1. 从上往下打印二叉树 - [二叉树的层序遍历](https://algocasts.io/episodes/qjG0bWK2) - leetcode 102 | lintcode 69
 1. 二叉搜索树的后序遍历序列 - [nowcoder](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd)
 1. 二叉树中和为某一值的路径 - leetcode 113 | lintcode 246
