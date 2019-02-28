@@ -28,7 +28,7 @@
 1. 包含 min 函数的栈 - [带有 min 函数的栈](https://algocasts.io/episodes/LPmwNWqw) - leetcode 155 | lintcode 12
 1. 栈的压入弹出序列 - [验证入栈出栈序列](https://algocasts.io/episodes/KApAz4W6) - leetcode 946
 1. 从上往下打印二叉树 - [二叉树的层序遍历](https://algocasts.io/episodes/qjG0bWK2) - leetcode 102 | lintcode 69
-1. 二叉搜索树的后序遍历序列 - [nowcoder](https://www.nowcoder.com/practice/a861533d45854474ac791d90e447bafd)
+1. 二叉搜索树的后序遍历序列 - [验证二叉搜索树的前序遍历序列](https://algocasts.io/episodes/D1mRZemz) - lintcode 1307 // 相似题
 1. 二叉树中和为某一值的路径 - leetcode 113 | lintcode 246
 1. 复杂链表的复制 - [含随机指针的链表拷贝](https://algocasts.io/episodes/RVmVkoGQ) - leetcode 138 | lintcode 105
 1. 二叉搜索树与双向链表 - leetcode 426 | lintcode 378
