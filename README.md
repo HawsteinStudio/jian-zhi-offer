@@ -40,7 +40,7 @@
 1. 把数组排成最小的数
 1. 丑数 - [第 n 个丑数](https://algocasts.io/episodes/ldGjk7p9) - leetcode 264 | lintcode 4
 1. 第一个只出现一次的字符 - [第一个只出现一次的字符](https://algocasts.io/episodes/Y9pJkYWA) - leetcode 387 | lintcode 209
-1. 数组中的逆序对 - leetcode 493 | lintcode 532
+1. 数组中的逆序对 - [逆序对](https://algocasts.io/episodes/qjG0K8mK) | lintcode 532
 1. 两个链表的第一个公共节点 - [链表的相交节点](https://algocasts.io/episodes/AwmX9Gx6) - leetcode 160 | lintcode 380
 1. 数字在排序数组中出现的次数 - [有序数组中查找数字的开始和结束下标](https://algocasts.io/episodes/QrWZJaW5) - leetcode 34 | lintcode 61
 1. 二叉树的深度 - [二叉树的最大深度](https://algocasts.io/episodes/jwmB5W8Z) - leetcode 104 | lintcode 97
