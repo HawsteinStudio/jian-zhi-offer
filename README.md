@@ -45,7 +45,7 @@
 1. 数字在排序数组中出现的次数 - [有序数组中查找数字的开始和结束下标](https://algocasts.io/episodes/QrWZJaW5) - leetcode 34 | lintcode 61
 1. 二叉树的深度 - [二叉树的最大深度](https://algocasts.io/episodes/jwmB5W8Z) - leetcode 104 | lintcode 97
 1. 平衡二叉树 - [判断二叉树是否平衡](https://algocasts.io/episodes/j5pglWx8) - leetcode 110 | lintcode 93
-1. 数组中只出现一次的数字 - leetcode 260 | lintcode 84
+1. 数组中只出现一次的数字 - [只出现一次的两个数字](https://algocasts.io/episodes/yRp366G4) - leetcode 260 | lintcode 84
 1. 和为 s 的两个数字 - [有序数组中求和为给定值的两个数](https://algocasts.io/episodes/6emEjGVr) - leetcode 167 | lintcode 608
 1. 和为 s 的连续正数序列
 1. 翻转单词顺序 - leetcode 151 | lintcode 53
