@@ -8,8 +8,8 @@
 > 另外，在我看来，有些题目练习的意义不大，已经使用删除线移除。
 
 1. 二维数组中的查找 - [行列递增的二维数组搜索](https://algocasts.io/episodes/AEpoMmQ1) - leetcode 240 | lintcode 38
-1. 替换空格 - lintcode 212 | [nowcoder](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423)
-1. 从尾到头打印链表 - [nowcoder](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035)
+1. ~~替换空格~~
+1. ~~从尾到头打印链表~~
 1. 重建二叉树 - [用前序和中序遍历序列构建二叉树](https://algocasts.io/episodes/M0G2DaWz) - leetcode 105 | lintcode 73
 1. 用两个栈实现队列 - [使用栈实现队列](https://algocasts.io/episodes/jwmBznm8) - leetcode 232 | lintcode 40
 1. 旋转数组的最小数字 - [旋转有序数组的最小值](https://algocasts.io/episodes/q2m5w5pz) - leetcode 153 | lintcode 159
@@ -48,11 +48,11 @@
 1. 数组中只出现一次的数字 - [只出现一次的两个数字](https://algocasts.io/episodes/yRp366G4) - leetcode 260 | lintcode 84
 1. 和为 s 的两个数字 - [有序数组中求和为给定值的两个数](https://algocasts.io/episodes/6emEjGVr) - leetcode 167 | lintcode 608
 1. 和为 s 的连续正数序列
-1. 翻转单词顺序 - leetcode 151 | lintcode 53
+1. 翻转单词顺序 - [翻转单词顺序](https://algocasts.io/episodes/BPp63kWr) - leetcode 151 | lintcode 53
 1. 左旋转字符串 - [旋转数组](https://algocasts.io/episodes/Z5mzgwGd) - leetcode 189 | lintcode 1334
-1. n 个骰子的点数
-1. 扑克牌的顺子
-1. 圆圈中最后剩下的数字
+1. ~~n 个骰子的点数~~
+1. ~~扑克牌的顺子~~
+1. ~~圆圈中最后剩下的数字~~
 1. ~~求 1+2+..+n~~
 1. 不用加减乘除做加法 - [不用+/-求两数之和](https://algocasts.io/episodes/XZWvBW7n) - leetcode 371
 1. 把字符串转成整数 - [字符串转整数](https://algocasts.io/episodes/aVWyYW25) - leetcode 8 | lintcode 54
