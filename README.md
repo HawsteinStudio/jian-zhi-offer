@@ -56,4 +56,4 @@
 1. ~~求 1+2+..+n~~
 1. 不用加减乘除做加法 - [不用+/-求两数之和](https://algocasts.io/episodes/XZWvBW7n) - leetcode 371
 1. 把字符串转成整数 - [字符串转整数](https://algocasts.io/episodes/aVWyYW25) - leetcode 8 | lintcode 54
-1. 树中两个节点的最低公共祖先 - leetcode 236 | lintcode 88
+1. 树中两个节点的最低公共祖先 - [二叉树中节点的最近公共祖先](https://algocasts.io/episodes/ezplgPGE) - leetcode 236 | lintcode 88
